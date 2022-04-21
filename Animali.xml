@@ -9,7 +9,8 @@
      <serpenti/>
    </rettili>
 
-   <anfibi>
+   <anfibi id="ANF">
       <raganelle/>
+      <rospi/>
    </anfibi>
 </animali>
