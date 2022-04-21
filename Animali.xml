@@ -1,12 +1,15 @@
 <animali>
    <mammiferi>
-      </delfini>
-      </orso>
-      </balena>
+      <delfini/>
+      <orso/>
+      <balena/>
    </mammiferi>
 
    <rettili>
-     </serpenti>
+     <serpenti/>
    </rettili>
 
+   <anfibi>
+      <rane/>
+   </anfibi>
 </animali>
